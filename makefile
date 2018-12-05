@@ -1,4 +1,4 @@
-GIT_REPO := https://github.com/DuoDuoMelb/java-maven-junit-helloworld.git
+GIT_REPO := https://github.com/DuoDuoMelb/TestCode-1.git
 DIR := "dev"
 OS := $(shell uname)
 
